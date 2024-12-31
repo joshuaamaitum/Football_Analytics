@@ -44,3 +44,5 @@ dplyr::glimpse(ars_new_2024_summary)
 # function to extract match lineups
 ars_new_2024_lineups <- fb_match_lineups(match_url = "https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League")
 dplyr::glimpse(ars_new_2024_lineups)
+
+# 
