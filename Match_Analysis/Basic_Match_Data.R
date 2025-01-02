@@ -37,7 +37,7 @@ dplyr::glimpse(ars_new_2024)
 
 
 # function to extract match summary data
-ars_new_2024_summary <- fb_match_summary(match_url = "https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League")
+ars_new_2024_summary <- fb_match_summary(match_url = "https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League")
 dplyr::glimpse(ars_new_2024_summary)
 
 
