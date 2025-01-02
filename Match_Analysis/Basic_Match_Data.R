@@ -32,7 +32,7 @@ epl_2025_urls
 
 
 # function to extract match report data
-ars_new_2024 <- fb_match_report(match_url = "https://fbref.com/en/matches/8cff7a63/Manchester-United-Newcastle-United-December-30-2024-Premier-League" )
+ars_new_2024 <- fb_match_report(match_url = "https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League"  )
 dplyr::glimpse(ars_new_2024)
 
 
